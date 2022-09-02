@@ -1,17 +1,19 @@
-import numpy as np
-import os
-
-from multiarea_model import MultiAreaModel
-from config import base_path
-
 """
-Down-scaled model.
+Down-scaled model
+==================
+
 Neurons and indegrees are both scaled down to 10 %.
 Can usually be simulated on a local machine.
 
 Warning: This will not yield reasonable dynamical results from the
 network and is only meant to demonstrate the simulation workflow.
 """
+import numpy as np
+import os
+
+from multiarea_model import MultiAreaModel
+from config import base_path
+
 d = {}
 conn_params = {'replace_non_simulated_areas': 'het_poisson_stat',
                'g': -11.,
