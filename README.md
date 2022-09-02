@@ -19,7 +19,7 @@ The model has been documented in the following publications:
    A multi-scale layer-resolved spiking network model of
    resting-state dynamics in macaque cortex. PLOS Computational Biology, 14(9): e1006359. [https://doi.org/10.1371/journal.pcbi.1006359](https://doi.org/10.1371/journal.pcbi.1006359)
 
-[![EBRAINS Notebook](https://nest-simulator.org/TryItOnEBRAINS.png)](https://lab.ebrains.eu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fjessica-mitchell%2Fmulti-area-model&urlpath=lab%2Ftree%2Fmulti-area-model%2F)
+[![EBRAINS Notebook](https://nest-simulator.org/TryItOnEBRAINS.png)](https://lab.ebrains.eu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fjessica-mitchell%2Fmulti-area-model&branch=add-ebrains-button&urlpath=lab%2Ftree%2Fmulti-area-model%2F)
 
 The code in this repository is self-contained and allows one to
 reproduce the results of all three papers.
